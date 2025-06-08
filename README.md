@@ -1,4 +1,4 @@
-Optimal Price Prediction of Electronic Gadgets Using Machine Learning
+###Optimal Price Prediction of Electronic Gadgets Using Machine Learning
 This repository contains a complete machine learning project focused on predicting the optimal prices for electronic gadgets such as laptops, mobile phones, and tablets. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment-ready notebooks.
 
 📁 Repository Structure
