@@ -1,13 +1,14 @@
-### Optimal Price Prediction of Electronic Gadgets Using Machine Learning
+##### Optimal Price Prediction of Electronic Gadgets Using Machine Learning
+
 This repository contains a complete machine learning project focused on predicting the optimal prices for electronic gadgets such as laptops, mobile phones, and tablets. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment-ready notebooks.
 
-📁 Repository Structure
+#### 📁 Repository Structure
 ├── Final Mobile Data27.ipynb # Jupyter Notebook for mobile price prediction ├── Final Tablet Data27.ipynb # Jupyter Notebook for tablet price prediction ├── Laptop_price_predictor27.ipynb # Jupyter Notebook for laptop price prediction ├── 2-Optimal-Price-Prediction.pptx # Presentation summarizing the project ├── Project Report(2).pdf # Detailed project report ├── college project1.pbix # Power BI dashboard for data visualization └── README.md # Project description and instructions
 
-🎯 Project Objective
+#### 🎯 Project Objective
 To develop machine learning models capable of predicting the optimal selling price of electronic gadgets using features like brand, specifications, condition, and other relevant data points.
 
-🧠 Machine Learning Techniques Used
+#### 🧠 Machine Learning Techniques Used
 Data Cleaning and Feature Engineering
 
 Exploratory Data Analysis (EDA)
